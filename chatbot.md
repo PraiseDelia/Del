@@ -1,14 +1,15 @@
 MECHANISM OF A CHATBOT
 Chatbot or bot – is a computer program that simulates a natural human conversation. 
-Users communicate with a chatbot via like how they would talk to a real person.
-There are different types of chatbots:
+Users communicate with a chatbot via like how they would talk to a real person. 
+       There are different types of chatbots:
 
 Rule-based chatbots
-This is the simplest type of chatbots today. People interact with these bots by clicking on buttons and using pre-defined options. To give relevant answers these chatbots require people to make a few selections. 
+This is the simplest type of chatbots today. People interact with these bots by clicking on buttons and using pre-defined options. 
 
-Intellectually independent chatbots are trained to understand specific keywords and phrases that trigger bot’s reply. With the time they train themselves to understand more and more questions. You can say they learn and train from experience.
+Intellectually independent chatbots are trained to understand specific keywords and phrases that trigger bot’s reply. You can say they learn and train from experience.
 
-Artificial Intelligence (AI) is a simulation of human intelligence. AI is the area of computer science that focuses on creating intelligent machines that work and “think” as people.
+Artificial Intelligence (AI) is a simulation of human intelligence. It focuses on creating intelligent machines that work and “think” as people.
+
 Mechanism:
 Chatbots are mainly based on their speech Recognition API and Speech synthesis API. Chatbots use Machine Learning, AI and Natural Language Processing (NLP) to understand people.
 
